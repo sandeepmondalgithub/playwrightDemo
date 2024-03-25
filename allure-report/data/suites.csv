@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 24 23:51:22 IST 2024","Sun Mar 24 23:51:26 IST 2024","4292","chromium","swaglabs.spec.ts","end to end swaglabs","","","swaglabs end to end",""
+"passed","Sun Mar 24 23:49:31 IST 2024","Sun Mar 24 23:49:37 IST 2024","6280","firefox","swaglabs.spec.ts","end to end swaglabs","","","swaglabs end to end",""
